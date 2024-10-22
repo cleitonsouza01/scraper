@@ -7,7 +7,8 @@ It's making use of the BeautifulSoup library to parse the HTML and extract the d
 - Python 3
 - BeautifulSoup
 - httpx
-- pandas
+- tenacity
+
 (You can install the required libraries by running the command 'pip install -r requirements.txt')
 
 # Python version
